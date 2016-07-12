@@ -1,0 +1,23 @@
+{
+  "name": "jss",
+  "description": "JSS is a single point of development, hybrid abstraction of css and javascript and html. Built in ASP.NET Core, C#.",
+  "version":"1.0.0",
+  "keywords": [
+    "jss",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "authors": [
+    "Michael Riemer <mikejr76@live.com>",
+    "Kyle Gundersen <kylegundersen@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
