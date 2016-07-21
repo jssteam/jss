@@ -3,7 +3,8 @@
     "description": "JSS Framework",
 
     "dependencies": {
-        "NETStandard.Library": "1.6.0"
+        "NETStandard.Library": "1.6.0",
+        "System.Runtime.Serialization.Formatters": "4.0.0-rc3-24212-01"
     },
 
   "frameworks": {
